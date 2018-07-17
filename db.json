@@ -1,0 +1,45 @@
+{
+  "users": [
+     {
+       "id":1,
+       "open_tab_url":"test",
+       "username":"test",
+       "password":"test",
+       "api_key":"test"
+     },
+     {
+       "id":2,
+       "open_tab_url":"data",
+       "username":"data",
+       "password":"data",
+       "api_key":"data"
+     },
+     {
+       "id":3,
+       "open_tab_url":"hello",
+       "username":"hello",
+       "password":"hello",
+       "api_key":"hello"
+     }
+     ],
+  "data":[
+    {
+      "user":1,
+      "values":[
+        16,17,18
+        ]
+    },
+    {
+      "user":2,
+      "values":[
+        18,19,20
+        ]
+    },
+    {
+      "user":3,
+      "values":[
+        21,22,23
+        ]
+    }
+    ]
+}
